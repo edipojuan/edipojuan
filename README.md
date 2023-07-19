@@ -7,6 +7,8 @@
 
 <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edipojuan" />
 
+<img height="280em" src="https://github-readme-stats.vercel.app/api?username=edipojuan&show_icons=true" />
+
 <!--
 **edipojuan/edipojuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
