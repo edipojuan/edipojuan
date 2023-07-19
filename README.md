@@ -6,7 +6,7 @@
 -->
 <div>
   <img height="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edipojuan" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=edipojuan&show_icons=true" />
+  <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=edipojuan&show_icons=true" /> -->
 </div>
 
 <!--
