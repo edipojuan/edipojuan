@@ -5,8 +5,8 @@
 <img title="My status" heigth="340" width="440" src="https://github-readme-stats.vercel.app/api?username=edipojuan&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
 -->
 <div>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edipojuan" />
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=edipojuan&show_icons=true" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edipojuan" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edipojuan&show_icons=true" />
 </div>
 
 <!--
