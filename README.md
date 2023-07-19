@@ -5,9 +5,9 @@
 <img title="My status" heigth="340" width="440" src="https://github-readme-stats.vercel.app/api?username=edipojuan&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
 -->
 
-<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edipojuan" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edipojuan" />
 
-<img height="280em" src="https://github-readme-stats.vercel.app/api?username=edipojuan&show_icons=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=edipojuan&show_icons=true" />
 
 <!--
 **edipojuan/edipojuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
