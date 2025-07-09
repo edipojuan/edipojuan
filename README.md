@@ -20,19 +20,20 @@ Senior Software Engineer with 16 years of experience in software development. Ba
 
 ### **Front-End**  
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-![SCSS](https://img.shields.io/badge/sass-silver.svg?style=for-the-badge&logo=sass&logoColor=black)
 ![RxJS](https://img.shields.io/badge/RxJS-red?style=for-the-badge)
 ![NgRx](https://img.shields.io/badge/NgRx-purple?style=for-the-badge)
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-silver.svg?style=for-the-badge&logo=sass&logoColor=black)
+![LESS](https://img.shields.io/badge/LESS-e6197e?style=for-the-badge&logo=LESS)
 
 ---
 
 ### **Back-End & APIs**  
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=.net)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NESTJS](https://img.shields.io/badge/NESTJS-a52732?style=for-the-badge&logo=nestjs)
+![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=.net)
 
 ---
 
@@ -56,8 +57,8 @@ Senior Software Engineer with 16 years of experience in software development. Ba
 ### **Testing & Quality**  
 ![Vitest](https://img.shields.io/badge/vitest-6CBB3C?style=for-the-badge&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Static Badge](https://img.shields.io/badge/jasmine-black?style=for-the-badge&logo=jasmine&color=purple)
-![Static Badge](https://img.shields.io/badge/karma-black?style=for-the-badge&color=green)
+![Jasmine](https://img.shields.io/badge/jasmine-black?style=for-the-badge&logo=jasmine&color=purple)
+![Karma](https://img.shields.io/badge/karma-black?style=for-the-badge&color=green)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ---
@@ -65,14 +66,14 @@ Senior Software Engineer with 16 years of experience in software development. Ba
 ### **Big Data & Analytics**  
 ![Databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![AWS Kinesis](https://img.shields.io/badge/kinesis-FF9900?style=for-the-badge&logo=amazon-kinesis&logoColor=white)
-![Static Badge](https://img.shields.io/badge/bigquery-%232d84ff?style=for-the-badge&logo=bigquery)
+![BigQuery](https://img.shields.io/badge/bigquery-%232d84ff?style=for-the-badge&logo=bigquery)
 
 </br>
 
 ## :receipt: Certifications
-![Static Badge](https://img.shields.io/badge/%20MCSA%3A%20Web%20Applications%20-%20Exam%20480%3A%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3-blue?style=flat-square&label=Microsoft)
+![Exam 480](https://img.shields.io/badge/%20MCSA%3A%20Web%20Applications%20-%20Exam%20480%3A%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3-blue?style=flat-square&label=Microsoft)
 </br>
-![Static Badge](https://img.shields.io/badge/%20MTA%3A%20HTML5%20Application%20Development%20Fundamentals-blue?style=flat-square&label=Microsoft)
+![MTA](https://img.shields.io/badge/%20MTA%3A%20HTML5%20Application%20Development%20Fundamentals-blue?style=flat-square&label=Microsoft)
 
 </br>
 
@@ -91,4 +92,4 @@ Senior Software Engineer with 16 years of experience in software development. Ba
 </br>
 
 ## :open_book: Tech Stacks
-Node.js | JavaScript | TypeScript | Angular | Amazon Web Services (AWS) | Akita | Angular CLI | Angular Universal | API Gateway | RESTful APIs | BDD | BigQuery | Bootstrap | C# | CI/CD | CloudFront | CloudWatch | SQS | CodeBuild | CodePipeline | CQRS | CSS | DDD | Design Patterns | Docker | DRY | DynamoDB | ElastiCache | Entity Framework (EF) | Event Sourcing | EventBridge | Event-driven Architecture | Express.js | Figma | Firebase | Cloud Functions | Git | GitFlow | GitHub Actions | GitLab CI/CD | Google Cloud Platform (GCP) | Google Cloud Pub/Sub | HTML | Hexagonal Architecture | Ionic | Jest | Jasmine | Karma | Kafka (Confluent Stack) | Kanban | Kinesis | KISS | Lambda | LangChain | Angular Material | Microservices | MongoDB | MySQL | NgRx | Object-Oriented Programming (POO) | Parameter Store | PostgreSQL | RabbitMQ | Realtime Database | Redis | Redux | Route 53 | RxJS | S3 | SASS | SCSS | Serverless Framework | Single Page Application (SPA) | SNS | Socket.io | SOLID | SQL | Storybook | Supertest | Swagger | Tailwind CSS | Terraform | TDD | Timestream | Trunk Based Development | Vitest | Webhooks | Websockets | YAGNI | .NET | Scrum | ReadMe.io | Databricks | Jira | Confluence | Microfrontends | PrimeNG | GitHub | Firestore | NoSQL
+Node.js | JavaScript | TypeScript | Angular | Amazon Web Services (AWS) | Akita | Angular CLI | Angular Universal | API Gateway | RESTful APIs | BDD | BigQuery | Bootstrap | C# | CI/CD | CloudFront | CloudWatch | SQS | CodeBuild | CodePipeline | CQRS | CSS | DDD | Design Patterns | Docker | DRY | DynamoDB | ElastiCache | Entity Framework (EF) | Event Sourcing | EventBridge | Event-driven Architecture | Express.js | NestJS | Axios | OAuth | JWT | Figma | Firebase | Cloud Functions | Git | GitFlow | GitHub Actions | GitLab CI/CD | Google Cloud Platform (GCP) | Google Cloud Pub/Sub | HTML | Hexagonal Architecture | Ionic | Jest | Jasmine | Karma | Cypress | Kafka (Confluent Stack) | Kanban | Kinesis | KISS | Lambda | LangChain | Angular Material | Microservices | MongoDB | MySQL | NgRx | Object-Oriented Programming (POO) | Parameter Store | PostgreSQL | RabbitMQ | Realtime Database | Redis | Redux | Route 53 | RxJS | S3 | SASS | SCSS | LESS | Serverless Framework | Single Page Application (SPA) | SNS | Socket.io | SOLID | SQL | Storybook | Supertest | Swagger | Tailwind CSS | Terraform | TDD | Timestream | Trunk Based Development | Vitest | Webhooks | Websockets | YAGNI | .NET | Scrum | ReadMe.io | Databricks | Jira | Confluence | Microfrontends | PrimeNG | GitHub | Firestore | NoSQL
